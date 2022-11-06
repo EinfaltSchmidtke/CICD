@@ -64,5 +64,5 @@ jobs:
           node-version: 16.x
       - name: Install NPM Dependencies
         run: npm i
-      - name: Deploy to gh pages
-        run: npm run deploy
+      - name: Deploy react app to github pages
+        uses: tanwanimohit/deploy-react-to-ghpages@v1.0.1
