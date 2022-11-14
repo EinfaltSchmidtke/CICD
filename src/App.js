@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          React macht Spaß
         </a><br/>
         <b>Cool Feature</b>
       </header>
